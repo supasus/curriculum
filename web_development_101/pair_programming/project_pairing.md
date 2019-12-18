@@ -160,6 +160,8 @@ Submit a link below to the [github repo](https://github.com/TheOdinProject/curri
 * [David Watkin's Solution](https://github.com/DavidWatkinCode/web_dev_101/tree/master/javascript/pomodoro_timer) - [View in browser](https://davidwatkincode.github.io/web_dev_101/javascript/pomodoro_timer)
 * [Kevin Charles's Solution](https://github.com/kevinbcharles/pomodoro) - [View in Browser](https://kevinbcharles.github.io/pomodoro/)
 * [AlexGioffDev's Solution](https://github.com/AlexGioffDev/Pomodoro) - [View in Browser](https://alexgioffdev.github.io/Pomodoro/index.html)
+* [Supasus's Solution](https://github.com/supasus/pomodoro-timer-) - [View in Browser](https://supasus.github.io/pomodoro-timer-/)
+
 </details>
 
 ### Next Steps
